@@ -1,4 +1,16 @@
 # CS-340-Client-Server-Development
+## Course Description
+Students will learn how to apply database systems concepts and principles to develop 
+client/server applications that interface client-side code with databases.
+## Course Competencies
+This course covers the following competencies, which represent the knowledge and skills 
+relevant to your field:
+- CS-30433: Apply database systems concepts and principles in the development of a 
+client/server application
+- CS-30434: Create a database that can interface with client-side code
+- CS-30435: Develop client-side code that interfaces with databases
+
+## Projects
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 The most important thing for making sure that a program is adaptable is to try not to hard code anything. The CRUD python module we developed for the animal shelter can easily be used for other databases. With a couple of changes to how it is initialized, such as passing a database name, a collection name, host, and port, you can use this module for any database. At that point you would probably want to change the name of the module since it is not for an animal shelter anymore.
 
